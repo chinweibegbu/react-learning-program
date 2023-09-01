@@ -1,0 +1,3 @@
+[submodule "globomantics"]
+	path = globomantics
+	url = https://github.com/chinweibegbu/globomantics
