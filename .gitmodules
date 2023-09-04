@@ -1,3 +1,6 @@
 [submodule "globomantics"]
 	path = globomantics
 	url = https://github.com/chinweibegbu/globomantics
+[submodule "react-hooks"]
+	path = react-hooks
+	url = https://github.com/chinweibegbu/react-hooks.git
