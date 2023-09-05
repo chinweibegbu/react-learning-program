@@ -4,3 +4,6 @@
 [submodule "react-hooks"]
 	path = react-hooks
 	url = https://github.com/chinweibegbu/react-hooks.git
+[submodule "react-custom-hooks"]
+	path = react-custom-hooks
+	url = https://github.com/chinweibegbu/react-custom-hooks.git
