@@ -5,6 +5,7 @@ This is the parent folder of the Andela-Pluralsight-Meta React Learning Program 
 * `/globomantics`: Week 1 React Basics course project
 * `/react-hooks`: Week 2 React Hooks course-topic project
 * `/react-custom-hooks`: Week 2 React Hooks course-topic project
+* `/tdd-using-react`: Week 2 React Hooks course project
 
 ## Commands
 ### Add submodule
