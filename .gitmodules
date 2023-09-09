@@ -7,3 +7,6 @@
 [submodule "react-custom-hooks"]
 	path = react-custom-hooks
 	url = https://github.com/chinweibegbu/react-custom-hooks.git
+[submodule "tdd-using-react"]
+	path = tdd-using-react
+	url = https://github.com/chinweibegbu/tdd-using-react.git
