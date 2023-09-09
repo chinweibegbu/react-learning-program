@@ -13,4 +13,4 @@ This is the parent folder of the Andela-Pluralsight-Meta React Learning Program 
 ### Update submodule
 `> git submodule update --remote [relative-submodule-path]`
 
-See more Git submodule commands [[here](https://git-scm.com/book/en/v2/Git-Tools-Submodules)](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+See more Git submodule commands [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
