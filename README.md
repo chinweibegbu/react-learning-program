@@ -3,10 +3,10 @@ This is the parent folder of the Andela-Pluralsight-Meta React Learning Program 
 
 ## Submodule Overview
 * `/globomantics`: Week 1 React Basics course project
-* `/react-hooks`: Week 2 React Hooks course-topic project
-* `/react-custom-hooks`: Week 2 React Hooks course-topic project
+* `/react-hooks`: Week 2 React Hooks course topic
+* `/react-custom-hooks`: Week 2 React Hooks course topic
 * `/tdd-using-react`: Week 2 React Hooks course project
-* `/react-17-getting-started`: Week 2 React 17: Getting Started course project
+* `/react-17-getting-started`: Week 2 React 17: Getting Started course
 
 ## Commands
 ### Add submodule
