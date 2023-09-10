@@ -13,3 +13,6 @@
 [submodule "react-17-getting-started"]
 	path = react-17-getting-started
 	url = https://github.com/chinweibegbu/react-17-getting-started.git
+[submodule "react-component-design"]
+	path = react-component-design
+	url = https://github.com/chinweibegbu/react-component-design.git
