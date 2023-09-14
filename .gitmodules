@@ -16,3 +16,6 @@
 [submodule "react-component-design"]
 	path = react-component-design
 	url = https://github.com/chinweibegbu/react-component-design.git
+[submodule "react-redux-fundamentals"]
+	path = react-redux-fundamentals
+	url = https://github.com/chinweibegbu/react-redux-fundamentals.git
