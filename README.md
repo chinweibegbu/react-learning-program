@@ -9,6 +9,7 @@ This is the parent folder of the Andela-Pluralsight-Meta React Learning Program 
 * `/react-17-getting-started`: Week 2 React 17 Getting Started course
 * `/react-component-design`: Week 3 React Component Design course
 * `/react-redux-fundamentals`: Week 3 React-Redux Fundamentals course project
+* `/react-server-rendering`: Week 4 React 16 Server Rendering Fundamentals course project
 
 ## Commands
 ### Add submodule

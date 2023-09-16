@@ -19,3 +19,6 @@
 [submodule "react-redux-fundamentals"]
 	path = react-redux-fundamentals
 	url = https://github.com/chinweibegbu/react-redux-fundamentals.git
+[submodule "react-server-rendering"]
+	path = react-server-rendering
+	url = https://github.com/chinweibegbu/react-server-rendering.git
