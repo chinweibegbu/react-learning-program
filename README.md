@@ -11,6 +11,7 @@ This is the parent folder of the Andela-Pluralsight-Meta React Learning Program 
 * `/react-redux-fundamentals`: Week 3 React-Redux Fundamentals course project
 * `/react-server-rendering`: Week 4 React 16 Server Rendering course project
 * `/react-17-forms`: Week 4 React 17 Forms course
+* `/lab-week-5`: Week 5 Pluralsight Code Lab 
 
 ## Commands
 ### Add submodule
